@@ -5,7 +5,7 @@ To see the conceptual flowchart of the model, see `other` file.
 
 This directory contains an agent-based model (ABM) implemented in Python, focused on simulating household adaptation to flood events in a social network context, based on the societal risks. It uses the Mesa framework for ABM and incorporates geographical data processing for flood depth and damage calculations.
 
-The RBB we developed are also included in the model, mainly in the government agent part. 
+The RBB we developed are also used in the model, mainly in the government agent part. 
 
 ### Installation
 To set up the project environment, follow these steps:
